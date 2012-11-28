@@ -1,0 +1,22 @@
+a {
+  color:#fff;
+}
+
+body {
+  background-color:#629600;
+  font-family:Verdana,Gelvetica,Arial,sans-serif;
+
+}
+
+footer {
+  background:url(bg.png) repeat-x top left;
+  color:#A79787;
+  font-size:.6em;
+}
+
+footer p {
+  padding:6px;
+
+}
+
+
