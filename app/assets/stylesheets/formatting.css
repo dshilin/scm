@@ -16,5 +16,8 @@ footer {
 
 footer p {
   padding:6px;
+}
 
+#page {
+  font-size:.8em;
 }
